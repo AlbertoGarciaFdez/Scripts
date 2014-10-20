@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 backup=${1}_Backup
 
